@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, sou a Larissa Marques!
 
-<!--
-**LariMarquess/LariMarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Estudande de Ciência da Computação (IFBA)| Entusiasta de Automação e Otimição de processos | Building a Startup
 
-Here are some ideas to get you started:
+Sou apaixonada por transformar ideias em soluções práticas, com foco em **automação de processos e IA**. Meu objetivo é aplicar minhas habilidades técnicas e pensamento criativo para resolver desafios do mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minha Stack (Tecnologias que estudo)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Design** | Figma |
+| **Back-end/Outros** | Python (Básico), Git, GitHub, C |
+| **Automação** |Power Automate (intermediário), N8N (básico)|
+
+---
+
+
+
+---
+
+### 🤝 Conecte-se Comigo
+
+✉️ Email: **marquesdev30@gmail.com**
